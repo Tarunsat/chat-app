@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480750259439",
+    "firebase_url": "https://chatapp-146ad-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-146ad",
+    "storage_bucket": "chatapp-146ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480750259439:android:76702d256cfac8c752df1a",
+        "android_client_info": {
+          "package_name": "com.example.niggachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480750259439-k2emak2vnrv4qu0ogftkghknd2f63aj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnI3bDW5nVr88p96ANngFIRcGksv64J_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480750259439-k2emak2vnrv4qu0ogftkghknd2f63aj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
